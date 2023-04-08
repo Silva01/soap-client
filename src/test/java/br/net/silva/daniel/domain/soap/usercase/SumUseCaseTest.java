@@ -7,7 +7,7 @@ import junit.framework.TestCase;
 
 public class SumUseCaseTest extends TestCase {
 
-    private Soap<SoapResponseDTO> soap = new SoapService();
+    private final Soap<SoapResponseDTO> soap = new SoapService();
 
     public void test_deve_somar_2_numeros() {
         SumUseCase sumUseCase = new SumUseCase(soap);

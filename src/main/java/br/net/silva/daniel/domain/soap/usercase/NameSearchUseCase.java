@@ -5,7 +5,7 @@ import br.net.silva.daniel.domain.soap.interfaces.Soap;
 
 public class NameSearchUseCase {
 
-    private final static String URL = "https://www.crcind.com/csp/samples/SOAP.Demo.cls?soap_method=QueryByName&name=%s";
+    private static final String URL = "https://www.crcind.com/csp/samples/SOAP.Demo.cls?soap_method=QueryByName&name=%s";
     private String name;
 
     private final Soap<SoapResponseDTO> soap;

@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 
 public class SoapServiceTest extends TestCase {
 
-    private SoapService soapService = new SoapService();
+    private final SoapService soapService = new SoapService();
 
 
     public void test_deve_somar_2_numeros() {
