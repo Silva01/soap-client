@@ -57,4 +57,4 @@ This use case searches for a name using a SOAP-based web service.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://chat.openai.com/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([https://chat.openai.com/LICENSE](https://github.com/Silva01/soap-client/blob/master/README.md)) file for details.
