@@ -1,6 +1,6 @@
 # SOAP Use Case Library
 
-[![Java CI with Maven](https://github.com/Silva01/soap-client/actions/workflows/maven.yml/badge.svg)](https://github.com/Silva01/soap-client/actions/workflows/maven.yml)
+[![Java CI with Maven](https://github.com/Silva01/soap-client/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/Silva01/soap-client/actions/workflows/maven.yml)
 
 A simple Java library that demonstrates the usage of SOAP-based web services for specific use cases, with a command-line interface.
 
